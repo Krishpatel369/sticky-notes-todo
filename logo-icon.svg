@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="512" height="512" role="img" aria-label="Sticky Board logo">
+  <g transform="rotate(9 64 64)">
+    <rect x="30" y="20" width="74" height="76" rx="4" fill="#FFD0DE" stroke="#2B2A33" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+  <g transform="rotate(-7 62 64)">
+    <path d="M24 28H98V76L76 100H24Z" transform="translate(4 5)" fill="#2B2A33"/>
+    <path d="M24 28H98V76L76 100H24Z" fill="#FFF1A8" stroke="#2B2A33" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M98 76H76V100Z" fill="#FFD9BD" stroke="#2B2A33" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M40 58L53 71L76 44" fill="none" stroke="#2B2A33" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="47" y="16" width="32" height="15" fill="#BFE0F7" stroke="#2B2A33" stroke-width="3.5" stroke-linejoin="round" transform="rotate(3 63 23)"/>
+  </g>
+</svg>

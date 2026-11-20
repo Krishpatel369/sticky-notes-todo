@@ -1,0 +1,15 @@
+{
+  "name": "Sticky Board",
+  "short_name": "Sticky Board",
+  "description": "A sticky notes to-do list with PDF download.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EDF4FA",
+  "theme_color": "#EDF4FA",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "logo-icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
